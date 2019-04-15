@@ -18,4 +18,6 @@ Matlab demo for **"Photographic Appearance Enhancement via Detail-based Dictiona
 
 ## Reference
 
-If you use this code in your own work, please cite the following [paper](http://jcst.ict.ac.cn:8080/jcst/EN/10.1007/s11390-017-1733-z): Zhi-Feng Xie, Shi Tang, Dong-Jin Huang, You-Dong Ding, Li-Zhuang Ma.Photographic Appearance Enhancement via Detail-based Dictionary Learning[J]  Journal of Computer Science and Technology, 2017,V32(3): 417-429
+If you use this code in your own work, please cite the following [paper](http://jcst.ict.ac.cn:8080/jcst/EN/10.1007/s11390-017-1733-z): 
+
+> Zhi-Feng Xie, Shi Tang, Dong-Jin Huang, You-Dong Ding, Li-Zhuang Ma.Photographic Appearance Enhancement via Detail-based Dictionary Learning[J]  Journal of Computer Science and Technology, 2017,V32(3): 417-429
